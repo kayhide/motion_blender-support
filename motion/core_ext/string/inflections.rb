@@ -1,3 +1,6 @@
+require_relative '../../inflections'
+require_relative '../../inflector/methods'
+
 # String inflections define new methods on the String class to transform names for different purposes.
 # For instance, you can figure out the name of a table from the name of a class.
 #
